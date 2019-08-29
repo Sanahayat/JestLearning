@@ -1,0 +1,25 @@
+{
+  "name": "JestLearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Addition.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanahayat/JestLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanahayat/JestLearning/issues"
+  },
+  "homepage": "https://github.com/Sanahayat/JestLearning#readme"
+}
